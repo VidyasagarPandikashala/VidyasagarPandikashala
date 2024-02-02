@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1bA4P4lW1PHAgq3m4_slfAtSpq6AbJpe0WSzSlkx46w4/edit?usp=sharing](https://docs.google.com/document/d/1bA4P4lW1PHAgq3m4_slfAtSpq6AbJpe0WSzSlkx46w4/edit?usp=sharing)
 
-- ⚡ Fun fact **When I learn about a technology I just do not on learning only required, I prefer delving deeper into concepts and why that technology exist in first place**
+- ⚡ Fun fact **When I learn about a technology I just do not do learning only on required, I prefer delving deeper into concepts and why that technology exist in first place**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
