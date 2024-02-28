@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Spring, Springboot, React, Docker, AWS**
 
-- 📫 How to reach me **vida.sagar.six@gmail.com**
+- 📫 How to reach me **vidya.sagar.six@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1bA4P4lW1PHAgq3m4_slfAtSpq6AbJpe0WSzSlkx46w4/edit?usp=sharing](https://docs.google.com/document/d/1bA4P4lW1PHAgq3m4_slfAtSpq6AbJpe0WSzSlkx46w4/edit?usp=sharing)
 
